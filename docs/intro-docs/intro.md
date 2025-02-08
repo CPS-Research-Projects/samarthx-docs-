@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: "Introduction"
-slug: "/intro"
+slug: "/intro-docs/intro"
 ---
 
 # Welcome to the Introduction Documentation
