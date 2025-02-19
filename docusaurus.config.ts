@@ -12,7 +12,7 @@ const config: Config = {
 
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://172.16.0.108/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -42,7 +42,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/harshitadharamansharma/samarthx-docs/tree/main/',
+            'https://github.com/CPS-Research-Projects/samarthx-docs-/tree/main/',
         },
         blog: {
           showReadingTime: true,
